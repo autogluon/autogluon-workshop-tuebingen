@@ -1,71 +1,41 @@
 # AutoGluon: Empowering (Multimodal) AutoML for the Next 10 Million Users
 
-Automated machine learning (AutoML) offers the promise of translating raw data into accurate predictions without the need for 
-significant human effort, expertise, and manual experimentation. In this workshop, we introduce [AutoGluon](https://github.com/autogluon/autogluon), 
-a state-of-the-art and easy-to-use toolkit that empowers *multimodal* AutoML. Different from most AutoML systems that focus on solving tabular tasks 
-containing categorical and numerical features, we consider supervised learning tasks on various types of data including tabular 
-features, text, image, time series, as well as their combinations. We will introduce the real-world problems that AutoGluon can help you 
-solve within three lines of code and the fundamental techniques adopted in the toolkit.
-Rather than diving deep into the mechanisms underlining each individual ML models, 
-we emphasize on how you can take advantage of a diverse collection of models to build an automated ML pipeline.
-Our workshop will also emphasize on the techniques behind automatically building and training deep learning models, 
-which are powerful yet cumbersome to manage manually.
+The workshop will revolve around tools that automatically transform your data, in particular image, text, time series, and tabular data, into high-quality predictions based on AutoML and deep learning models. The event will be hosted by the team at AWS that develops AutoGluon, and consists of a mix of tutorial-style presentation on the tools, examples. and discussions. The event features Alex Smola, Vice President und Dinstinguished Scientist for Machine Learning at AWS.
 
-Join us at the [NeurIPS 2022](https://nips.cc/) located at New Orleans Ernest N. Morial Convention Center on Monday, November 28 at 2:00pm, CST in 
-Room 293.
+The workshop is intended for ML professionals and data science practitioners, who are interested in forecasting applications and want to learn more about AutoML and deep learning solutions in the field.
 
-*Note: Github repository for this website is available at https://github.com/autogluon/neurips2022-autogluon-workshop* . 
+Note: In order to attend in person, you need to be registered to the [Eventbrite event](https://www.eventbrite.com/e/autogluon-workshop-tickets-477188201757).Please also bring your ID, as it will be required to access the event site, and your personal computer to use for the hands-on sessions. The workshop will be held in English.
 
-Please take a simple [survey](https://www.surveymonkey.com/r/TVYBFG3) (less than 1 minute) for feature request and feedback, we appreciate your input.
+Agenda:
 
+9:00am — 9:30am: Arrival and Registration
 
-## Schedule
+9:30am — 9:35am: Opening Remarks
 
-For each section, there will be a 10-15min QA at the end of section. In addition, there will be [additional hands-on notebooks](#hands-on-notebooks) after 
-each session that people can try out asynchronously.
+9:35am — 10:45am: Introduction + AutoGluon tabular
 
-| Topic                                                  | Speaker                                                                               | Duration (CST timezone) | Slides                                                                                                                                          | Cheatsheet                                                                                                                                                                                                                                                                                                                                       |
-|--------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Introduction + AutoGluon Tabular](#autogluon-tabular) | [Nick Erickson](https://github.com/Innixma)                                           | 2:00PM -- 2:55PM        | [link](https://docs.google.com/presentation/d/1whJdw8W0IixwFyRna13AjqlFKwO9ufsR/edit?usp=sharing&ouid=117434028345007023633&rtpof=true&sd=true) | [![tabular-cheatsheet](https://raw.githubusercontent.com/Innixma/autogluon-doc-utils/main/docs/cheatsheets/stable/autogluon-cheat-sheet.jpeg)](https://nbviewer.org/github/Innixma/autogluon-doc-utils/blob/main/docs/cheatsheets/stable/autogluon-cheat-sheet.pdf) [docs](https://auto.gluon.ai/stable/tutorials/tabular_prediction/index.html) |
-| Break                                                  | -                                                                                     | 2:55PM -- 3:05PM        | -                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                  |
-| [AutoGluon Multimodal](#autogluon-multimodal)          | [Xingjian Shi](https://github.com/sxjscience), [Yi Zhu](https://github.com/bryanyzhu) | 3:05PM -- 4:00PM        | [link](https://docs.google.com/presentation/d/1SlHVzaWtN-75m6mmvapeu4-C2Id7V5wO/edit?usp=sharing&ouid=117434028345007023633&rtpof=true&sd=true) | [![multimodal-cheatsheet](https://automl-mm-bench.s3-accelerate.amazonaws.com/cheatsheet/v0.6.0/AutoGluon_Multimodal_Cheatsheet_v0.6.0.png)](https://automl-mm-bench.s3-accelerate.amazonaws.com/cheatsheet/v0.6.0/AutoGluon_Multimodal_Cheatsheet_v0.6.0.pdf) [docs](https://auto.gluon.ai/stable/tutorials/multimodal/index.html)              |
-| Break                                                  | -                                                                                     | 4:00PM -- 4:10PM        | -                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                  |
-| [AutoGluon Timeseries](#autogluon-timeseries)          | [Caner Turkmen](https://github.com/canerturkmen)                                      | 4:10PM -- 4:50PM        | [link](https://docs.google.com/presentation/d/1AwZFuUWFT_Dp2wFLh9dk_RYLaYlsbxpN/edit?usp=sharing&ouid=117434028345007023633&rtpof=true&sd=true) | [![timeseries-cheatsheet](https://autogluon-timeseries-datasets.s3.us-west-2.amazonaws.com/public/autogluon_timeseries_cheatsheet.png)](https://autogluon-timeseries-datasets.s3.us-west-2.amazonaws.com/public/autogluon_timeseries_cheatsheet.pdf) [docs](https://auto.gluon.ai/stable/tutorials/timeseries/index.html)                        |
-| Additional QA + Feedback                               | All speakers                                                                          | 4:50PM -- 5:00PM        | -                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                  |
+~~~ Coffee break ~~~
+
+11:00am — 1:45am: AutoGluon multi-modal
+
+11:45am — 12:30pm: AutoGluon time series
+
+~~~ Q&A during Happy hour / Lunch ~~~
+
+## Location
+
+The event will be held at the Amazon Research and Development Center in Tuebingen, at Friedrich-Miescher-Str. 4 72076 Tübingen Germany.
 
 
-## Section Outline and Materials
 
-### AutoGluon Tabular
+## Resources
 
-- AutoML Basics: Discussion of core AutoML principles
-- History of competition ML and how it influenced the design of modern AutoML systems
-- Discussion of model combination strategies (stacking, bagging, model aggregation)
-- Constraint satisfaction and engineering for a performance envelope (accuracy, speed, compute resources)
-- Benchmark comparisons showcasing the advancement of AutoML systems in recent years both compared to earlier AutoML systems and human data scientists (4 AutoML frameworks, 104 OpenML datasets, 10 Kaggle datasets)
+AutoGluon Cheat Sheets and docs
 
+- Tabular [tabular-cheatsheet](https://raw.githubusercontent.com/Innixma/autogluon-doc-utils/main/docs/cheatsheets/stable/autogluon-cheat-sheet.jpeg)](https://nbviewer.org/github/Innixma/autogluon-doc-utils/blob/main/docs/cheatsheets/stable/autogluon-cheat-sheet.pdf) [docs](https://auto.gluon.ai/stable/tutorials/tabular_prediction/index.html)  
+- Time Series [timeseries-cheatsheet](https://autogluon-timeseries-datasets.s3.us-west-2.amazonaws.com/public/autogluon_timeseries_cheatsheet.png)](https://autogluon-timeseries-datasets.s3.us-west-2.amazonaws.com/public/autogluon_timeseries_cheatsheet.pdf) [docs](https://auto.gluon.ai/stable/tutorials/timeseries/index.html)
+- Multimodal [multimodal-cheatsheet](https://automl-mm-bench.s3-accelerate.amazonaws.com/cheatsheet/v0.6.0/AutoGluon_Multimodal_Cheatsheet_v0.6.0.png)](https://automl-mm-bench.s3-accelerate.amazonaws.com/cheatsheet/v0.6.0/AutoGluon_Multimodal_Cheatsheet_v0.6.0.pdf) [docs](https://auto.gluon.ai/stable/tutorials/multimodal/index.html)   
 
-### AutoGluon Multimodal
-
-- Real-world multimodal problems (life beyond captioning images)
-- Foundation models for image and text
-- Fusion techniques & ensemble FMs / tabular models 
-- Object detection
-- Multimodal matching
-- Advanced topics
-  - Training: Parameter-efficient finetuning
-  - Deployment: Model distillation
-  - Hyper-parameter optimization
-- Hands-on notebooks + QA: [notebooks](./notebooks)
-
-### AutoGluon Timeseries
-
-- Time series forecasting in a nutshell
-- An overview of machine learning for forecasting
-- AutoML in time series and unique challenges
-- Forecasting with AutoGluon-TimeSeries
-- Looking forward in time series AutoML
-- Hands-on notebooks + QA: [notebooks](./notebooks)
 
 ### Hands-on Notebooks
 
