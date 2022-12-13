@@ -4,7 +4,7 @@ The workshop will revolve around tools that automatically transform your data, i
 
 The workshop is intended for ML professionals and data science practitioners, who are interested in forecasting applications and want to learn more about AutoML and deep learning solutions in the field.
 
-Note: In order to attend in person, you need to be registered to the [Eventbrite event](https://www.eventbrite.com/e/autogluon-workshop-tickets-477188201757).Please also bring your ID, as it will be required to access the event site, and your personal computer to use for the hands-on sessions. The workshop will be held in English.
+Note: In order to attend in person, you need to be registered to the [Eventbrite event](https://www.eventbrite.com/e/autogluon-workshop-tickets-477188201757). Please also bring your ID, as it will be required to access the event site, and your personal computer to use for the hands-on sessions. The workshop will be held in English.
 
 Agenda:
 
