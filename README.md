@@ -14,13 +14,13 @@ Agenda:
 
 9:35am — 10:45am: Introduction + AutoGluon tabular
 
-10:45am - 11:00am:  Coffee break
+10:45am — 11:00am:  Coffee break
 
 11:00am — 1:45am: AutoGluon multi-modal
 
 11:45am — 12:30pm: AutoGluon time series
 
-12:30pm - : Q&A during Happy hour / Lunch
+12:30pm — : Q&A during Happy hour / Lunch
 
 ## Location
 
