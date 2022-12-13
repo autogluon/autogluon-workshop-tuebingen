@@ -32,9 +32,9 @@ The event will be held at the Amazon Research and Development Center in Tuebinge
 
 AutoGluon Cheat Sheets and docs
 
-- Tabular: [Cheat Sheet](https://nbviewer.org/github/Innixma/autogluon-doc-utils/blob/main/docs/cheatsheets/stable/autogluon-cheat-sheet.pdf) [docs](https://auto.gluon.ai/stable/tutorials/tabular_prediction/index.html)  
-- Time Series: [Cheat Sheet](https://autogluon-timeseries-datasets.s3.us-west-2.amazonaws.com/public/autogluon_timeseries_cheatsheet.pdf) [docs](https://auto.gluon.ai/stable/tutorials/timeseries/index.html)
-- Multimodal: [Cheat Sheet](https://automl-mm-bench.s3-accelerate.amazonaws.com/cheatsheet/v0.6.0/AutoGluon_Multimodal_Cheatsheet_v0.6.0.pdf) [docs](https://auto.gluon.ai/stable/tutorials/multimodal/index.html)   
+- Tabular: [cheatsheet](https://nbviewer.org/github/Innixma/autogluon-doc-utils/blob/main/docs/cheatsheets/stable/autogluon-cheat-sheet.pdf) [docs](https://auto.gluon.ai/stable/tutorials/tabular_prediction/index.html)  
+- Time Series: [cheatsheet](https://autogluon-timeseries-datasets.s3.us-west-2.amazonaws.com/public/autogluon_timeseries_cheatsheet.pdf) [docs](https://auto.gluon.ai/stable/tutorials/timeseries/index.html)
+- Multimodal: [cheatsheet](https://automl-mm-bench.s3-accelerate.amazonaws.com/cheatsheet/v0.6.0/AutoGluon_Multimodal_Cheatsheet_v0.6.0.pdf) [docs](https://auto.gluon.ai/stable/tutorials/multimodal/index.html)   
 
 
 ### Hands-on Notebooks
