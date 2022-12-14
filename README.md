@@ -10,17 +10,15 @@ Agenda:
 
 9:00am — 9:30am: Arrival and Registration
 
-9:30am — 9:35am: Opening Remarks
+9:30am — 10:30am: AutoGluon Tabular
 
-9:35am — 10:45am: Introduction + AutoGluon tabular
+10:30am — 10:45am: Coffee Break
 
-10:45am — 11:00am:  Coffee break
+10:45am — 11:45am: AutoGluon TimeSeries
 
-11:00am — 1:45am: AutoGluon multi-modal
+11:45am — 12:45pm: AutoGluon MultiModal
 
-11:45am — 12:30pm: AutoGluon time series
-
-12:30pm — : Q&A during Happy hour / Lunch
+12:45pm — : Q&A during Happy hour / Lunch
 
 ## Location
 
